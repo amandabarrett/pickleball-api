@@ -1,0 +1,182 @@
+[
+  {
+    "coordinates": {
+      "lattitude": 26.1401776,
+      "longtude": -80.1159996
+    },
+    "name": "George English Park",
+    "address": "1101 Bayview Dr, Fort Lauderdale, FL, 33304",
+    "outdoor": 6,
+    "access": "public",
+    "rating": "4 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 26.1327048,
+      "longtude": -80.1328262
+    },
+    "name": "Holiday Park",
+    "address": "1150 G.harold Martin Dr., Fort Lauderdale , FL, 33304",
+    "outdoor": 6,
+    "indoor": 4,
+    "access": "public",
+    "rating": "5 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 26.0625026,
+      "longtude": -80.1500452
+    },
+    "name": "Northside/melaleuca Park",
+    "address": "850 Nw 10th Street, Dania, FL",
+    "outdoor": 2,
+    "access": "public",
+    "rating": "2 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.8021099,
+      "longtude": -80.137723
+    },
+    "name": " Miami Beach Golf Club Pickleball Courts",
+    "address": "2301 Alton Rd, Miami Beach, Florida, 33140",
+    "outdoor": 6,
+    "access": "public",
+    "rating": "5 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.8675338,
+      "longtude": -80.1806956
+    },
+    "name": "  Miami Shores Tennis Club & Pickleball",
+    "address": "825 NE 100th Street, Miami Shores, FL, 33138",
+    "outdoor": 6,
+    "access": "public",
+    "rating": "4 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.9065966,
+      "longtude": -80.1244562
+    },
+    "name": "  Haulover Park Pickleball Courts",
+    "address": "10800 Collins Ave , Miami Beach, Florida, 33154",
+    "outdoor": 4,
+    "access": "public",
+    "rating": "3 stars",
+    "dedicated": false
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.631103,
+      "longtude": -80.3207051
+    },
+    "name": "Coral Reef Park",
+    "address": "10800 Collins Ave , Miami Beach, Florida, 33154",
+    "outdoor": 2,
+    "access": "public",
+    "rating": "2 stars",
+    "dedicated": false
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.6506547,
+      "longtude": -80.3297316
+    },
+    "name": "Suniland Park",
+    "address": "12855 Pinecrest Parkway, Miami, FL, 33156",
+    "outdoor": 4,
+    "access": "public",
+    "rating": "3 stars",
+    "dedicated": false
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.674748,
+      "longtude": -80.3080174
+    },
+    "name": " Coral Pine Park",
+    "address": "6955 Southwest 104th Street, Pinecrest 33156",
+    "outdoor": 4,
+    "access": "$15 per hour per court",
+    "rating": "5 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.665369,
+      "longtude": -80.373933
+    },
+    "name": " Alper JCC",
+    "address": "11155 SW 112 Ave, Miami, Florida, 33176",
+    "indoor": 6,
+    "access": "$15 per hour per court",
+    "rating": "5 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 25.7067426,
+      "longtude": -80.4279274
+    },
+    "name": "DETA Pickleball Club",
+    "address": "6401 Kendale Lakes Dr, , Miami, FL, 33172",
+    "indoor": 16,
+    "access": "$5 to $10 open play check webste for court reservation price",
+    "rating": "4 stars"
+  },
+  {
+    "coordinates": {
+      "lattitude": 25.7325343,
+      "longtude": -80.3245196
+    },
+    "name": "Tropical Park",
+    "address": "7900 S.W. 40 Street, Miami, Florida, 33155",
+    "outdoor": 4,
+    "access": "free",
+    "rating": "4 stars"
+  },
+  {
+    "coordinates": {
+      "lattitude": 25.7638474,
+      "longtude": -80.1385362
+    },
+    "name": "Fisher Island Racket Club",
+    "address": "1 fisher island drive, Fisher Island, florida , 33108",
+    "outdoor": 6,
+    "access": "members only",
+    "rating": "5 stars"
+  },
+
+  {
+    "coordinates": {
+      "lattitude": 26.0182091,
+      "longtude": -80.1687914
+    },
+    "name": "Stan Goldman Memorial Park",
+    "address": "850 Knights Road, Hollywood, FL, 33022",
+    "outdoor": 5,
+    "access": "public",
+    "rating": "5 stars"
+  },
+  {
+    "coordinates": {
+      "lattitude": 26.0428909,
+      "longtude": -80.2845448
+    },
+    "name": "Suellen H Fardelmann Sports Complex",
+    "address": "10500 Stirling Road, Cooper City, Florida, 33026",
+    "outdoor": 6,
+    "access": "public",
+    "rating": "4 stars"
+  }
+]
